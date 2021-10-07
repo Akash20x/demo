@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "name": "Bob",
+            "userid": "342z",
+            "destination": "Capital Hospital, Rana Pratap Bagh, New Delhi, Delhi",
+            "date": "2021-10-07"
+        },
+        {
+            "name": "Anna",
+            "userid": "64uc",
+            "destination": "Capital Hospital",
+            "date": "2021-10-08"
+        }
+    ]
+}
